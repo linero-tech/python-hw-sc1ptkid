@@ -2,4 +2,8 @@ from to_do import TODO
 
 
 def task7():
-    return TODO("Erase this line and write your solution")
+    return """
+    FOR Numbers in range (2, 102, 2)
+    OUTPUT print even Numbers from 1 to 100
+    END FOR
+    """
