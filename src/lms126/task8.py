@@ -2,4 +2,16 @@ from to_do import TODO
 
 
 def task8():
-    return TODO("Erase this line and write your solution")
+    return """
+    START
+    GET X
+        IF X = %3
+        OUTPUT print ("Foo")
+        IF X = %5
+        OUTPUT print ("Bar")
+        IF X = [%3] and [%5]
+        OUTPUT print ("FooBar")
+        ELSE X = [%3=0] or [%5=0]
+        OUTPUT print ("Qix")
+    ENDIF  
+    """
