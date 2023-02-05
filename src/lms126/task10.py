@@ -10,6 +10,6 @@ def task10():
     OUTPUT print ("Enter a user password up to six characters")
         INPUT user password
         WHILE len password < 6 character        
-        SET password to user
+        THEN SET password to user
     OUTPUT print ("Account created")
     END """
