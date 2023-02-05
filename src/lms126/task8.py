@@ -4,7 +4,7 @@ from to_do import TODO
 def task8():
     return """
     START
-    GET X
+    INPUT X
         IF X = %3
         OUTPUT print ("Foo")
         IF X = %5
