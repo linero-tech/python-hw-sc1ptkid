@@ -5,10 +5,11 @@ def task5():
     return """
     
     START
-    INPUT GET X == 1 to 8:
-    IF X == 1 to 8:
-    OUTPUT == print ("Monday to Sunday")
-    ELSE Do nothing  
+    INPUT X = 1 to 8:
+    IF X = 1 to 8:
+    WHILE Monday is 1
+        OUTPUT == print ("corresponding day of the week.")
+        ELSE Do nothing              
     ENDIF
                
     """
