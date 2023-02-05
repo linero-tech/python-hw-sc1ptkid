@@ -7,16 +7,16 @@ def task11():
 
 START
 INPUT celsius value
-SET fahrenheit_value = (Celsius_value * 9/5) + 32
-DISPLAY print Fahrenheit_value
+    Calculate fahrenheit_value = (Celsius_value * 9/5) + 32
+OUTPUT print Fahrenheit_value
 END
 
 # Convert Fahrenheit to Celsius
 
 START
 INPUT Fahrenheit value
-SET Celsius_value = (Fahrenheit_value - 32) * 5/9
-DISPLAY print Celsius_value
+    Calculate Celsius_value = (Fahrenheit_value - 32) * 5/9
+OUTPUT print Celsius_value
 END 
 
 """
