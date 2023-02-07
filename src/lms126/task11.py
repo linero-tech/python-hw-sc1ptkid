@@ -6,16 +6,16 @@ def task11():
 # Convert Celsius to Fahrenheit
 
 START
-INPUT celsius value
+INPUT Celsius_value
     IF value is a integer
-    Calculate fahrenheit_value = (Celsius_value * 9/5) + 32
+    Calculate Fahrenheit_value = (Celsius_value * 9/5) + 32
 OUTPUT print Fahrenheit_value
 END
 
 # Convert Fahrenheit to Celsius
 
 START
-INPUT Fahrenheit value
+INPUT Fahrenheit_value
     IF value is a integer
     Calculate Celsius_value = (Fahrenheit_value - 32) * 5/9
 OUTPUT print Celsius_value
