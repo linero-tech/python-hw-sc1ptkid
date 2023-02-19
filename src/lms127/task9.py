@@ -7,4 +7,4 @@ def task9(sentence, character):
 
 
 if __name__ == "__main__":
-    print("Result is", task9(sentence="I code In KOTLIN", character="i"))
+    print("result is", task9(sentence="I code In KOTLIN", character="i"))
