@@ -11,4 +11,4 @@ def task5(value_for_a, value_for_b):
 
 
 if __name__ == "__main__":
-    print (task5(1, 2))
+    print(task5(1, 2))
