@@ -9,5 +9,6 @@ def task1():
     print(f"Capital: {capital.title()}")
     print(f"Currency: {currency.upper()}")
 
+
 if __name__ == "__main__":
     task1()
