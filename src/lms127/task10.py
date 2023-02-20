@@ -19,8 +19,8 @@ if __name__ == "__main__":
 
 
 def task10_3(assessments):
-    middle = len(assessments) // 2
-    result = assessments[middle]
+    halfway = len(assessments) // 2
+    result = assessments[halfway]
     return result
 
 
