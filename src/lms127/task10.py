@@ -7,7 +7,7 @@ def task10_1(assessments):
 
 
 if __name__ == "__main__":
-    print("Result is", task10_1(assessments="LMHHF"))
+    print("result is", task10_1(assessments="LMHHF"))
 
 def task10_2(assessments):
     result = assessments[3]
@@ -15,7 +15,7 @@ def task10_2(assessments):
 
 
 if __name__ == "__main__":
-    print("Result is", task10_2(assessments="LMHHF"))
+    print("result is", task10_2(assessments="LMHHF"))
 
 
 def task10_3(assessments):
@@ -25,7 +25,7 @@ def task10_3(assessments):
 
 
 if __name__ == "__main__":
-    print("Result is", task10_3(assessments="LMFHM"))
+    print("result is", task10_3(assessments="LMFHM"))
 
 
 def task10_4(assessments):
@@ -34,4 +34,4 @@ def task10_4(assessments):
 
 
 if __name__ == "__main__":
-    print("Result is", task10_4(assessments="LMFHM"))
+    print("result is", task10_4(assessments="LMFHM"))
