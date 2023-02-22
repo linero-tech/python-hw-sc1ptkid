@@ -2,8 +2,7 @@ from to_do import TODO
 
 
 def task3(radius):
-    result = 2.0 * 3.1416 * radius
-    return result
+    return 2.0 * 3.1416 * radius
 
 
 if __name__ == "__main__":
