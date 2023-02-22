@@ -2,8 +2,7 @@ from to_do import TODO
 
 
 def task4(base, height):
-    result = 0.5 * base * height
-    return result
+    return 0.5 * base * height
 
 
 if __name__ == "__main__":
