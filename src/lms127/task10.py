@@ -12,8 +12,7 @@ def task10_2(assessments):
 
 
 def task10_3(assessments):
-    halfway = len(assessments) // 2
-    result = assessments[halfway]
+    result = assessments[len(assessments) // 2]
     return result
 
 
