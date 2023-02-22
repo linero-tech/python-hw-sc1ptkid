@@ -23,7 +23,7 @@ def task10_4(assessments):
 
 
 if __name__ == "__main__":
-    print("result is", task10_1(assessments="LMHHF"))
-    print("result is", task10_2(assessments="LMFHMF"))
-    print("result is", task10_3(assessments="LMFHM"))
-    print("result is", task10_4(assessments="LMFHM"))
+    print("result is", task10_1(assessments="LMHHF"), "min")
+    print("result is", task10_2(assessments="LMFHMF"), "(High)")
+    print("result is", task10_3(assessments="LMFHM"), "(Failure)")
+    print("result is", task10_4(assessments="LMFHM"), "(Low, Medium, Failure)")
