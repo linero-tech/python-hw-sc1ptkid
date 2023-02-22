@@ -2,23 +2,19 @@ from to_do import TODO
 
 
 def task10_1(assessments):
-    result = len(assessments)
-    return result
+    return len(assessments)
 
 
 def task10_2(assessments):
-    result = assessments[3]
-    return result
+    return assessments[3]
 
 
 def task10_3(assessments):
-    result = assessments[len(assessments) // 2]
-    return result
+    return assessments[len(assessments) // 2]
 
 
 def task10_4(assessments):
-    result = assessments[0:3]
-    return result
+    return assessments[0:3]
 
 
 if __name__ == "__main__":
