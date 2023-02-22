@@ -2,8 +2,7 @@ from to_do import TODO
 
 
 def task8(sentence, character):
-    result = sentence.count(character)
-    return result
+    return sentence.count(character)
 
 
 if __name__ == "__main__":
